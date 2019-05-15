@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "RESEARCH",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name_Rank": "University of Pennsylvania", "Grants_07_": "735,447", "LNG": "735,447", "LNG_1": -75.19391, "LONGITUDE": -75.19391, "LAT": 39.950929, "LATITUDE": 39.950929, "NUM_GRT": 735447 }, "geometry": { "type": "Point", "coordinates": [ -75.19391, 39.950929 ] } },
+{ "type": "Feature", "properties": { "Name_Rank": "Carnegie Mellon University", "Grants_07_": "196,096", "LNG": "196,096", "LNG_1": -79.942914, "LONGITUDE": -79.942914, "LAT": 40.444616, "LATITUDE": 40.444616, "NUM_GRT": 196096 }, "geometry": { "type": "Point", "coordinates": [ -79.942914, 40.444616 ] } },
+{ "type": "Feature", "properties": { "Name_Rank": "Villanova University", "Grants_07_": "3,280", "LNG": "3,280", "LNG_1": -75.345457, "LONGITUDE": -75.345457, "LAT": 40.039388, "LATITUDE": 40.039388, "NUM_GRT": 3280 }, "geometry": { "type": "Point", "coordinates": [ -75.345457, 40.039388 ] } },
+{ "type": "Feature", "properties": { "Name_Rank": "Lehigh University", "Grants_07_": "21,982", "LNG": "21,982", "LNG_1": -75.378887, "LONGITUDE": -75.378887, "LAT": 40.607158, "LATITUDE": 40.607158, "NUM_GRT": 21982 }, "geometry": { "type": "Point", "coordinates": [ -75.378887, 40.607158 ] } },
+{ "type": "Feature", "properties": { "Name_Rank": "Pennsylvania State University-World Campus", "Grants_07_": "2,156", "LNG": "2,156", "LNG_1": -77.841594, "LONGITUDE": -77.841594, "LAT": 40.832783, "LATITUDE": 40.832783, "NUM_GRT": 2156 }, "geometry": { "type": "Point", "coordinates": [ -77.841594, 40.832783 ] } },
+{ "type": "Feature", "properties": { "Name_Rank": "University of Pittsburgh-Pittsburgh Campus", "Grants_07_": "535,457", "LNG": "535,457", "LNG_1": -79.954692, "LONGITUDE": -79.954692, "LAT": 40.444502, "LATITUDE": 40.444502, "NUM_GRT": 535457 }, "geometry": { "type": "Point", "coordinates": [ -79.954692, 40.444502 ] } },
+{ "type": "Feature", "properties": { "Name_Rank": "Drexel University", "Grants_07_": "69,136", "LNG": "69,136", "LNG_1": -75.188745, "LONGITUDE": -75.188745, "LAT": 39.954855, "LATITUDE": 39.954855, "NUM_GRT": 69136 }, "geometry": { "type": "Point", "coordinates": [ -75.188745, 39.954855 ] } },
+{ "type": "Feature", "properties": { "Name_Rank": "Temple University", "Grants_07_": "139,016", "LNG": "139,016", "LNG_1": -75.158267, "LONGITUDE": -75.158267, "LAT": 39.980943, "LATITUDE": 39.980943, "NUM_GRT": 139016 }, "geometry": { "type": "Point", "coordinates": [ -75.158267, 39.980943 ] } },
+{ "type": "Feature", "properties": { "Name_Rank": "Duquesne University", "Grants_07_": "3,969", "LNG": "3,969", "LNG_1": -79.993046, "LONGITUDE": -79.993046, "LAT": 40.437496, "LATITUDE": 40.437496, "NUM_GRT": 3969 }, "geometry": { "type": "Point", "coordinates": [ -79.993046, 40.437496 ] } }
+]
+}
